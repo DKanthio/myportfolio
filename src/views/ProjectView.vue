@@ -31,8 +31,8 @@ export default {
             date: "02/10/2023",
             technologies: "HTML, CSS",
             github: "https://github.com/DKanthio/devoir-Cv",
-            image: "/src/assets/images/creation1.png", 
-            link: "/src/assets/cv/index.html", 
+            image: "/assets/images/creation1.png",
+            link: "/assets/cv/index.html", // Utilisez un chemin absolu
         },
 
         {
@@ -40,8 +40,8 @@ export default {
           title: "Cahier Des Charges",
           date: "05/10/2023",
           technologies: "Powerpoint",
-          image: "/src/assets/images/CDC.png",
-          link: "/src/assets/CDC.pdf",
+          image: "/assets/images/creation1.png",
+          link: "/assets/CDC.pdf",
         },
         {
           id: 3,
@@ -49,8 +49,8 @@ export default {
           date: "31/10/2023",
           technologies: "HTML, CSS, Javascript",
           github: "https://github.com/DKanthio/commentaire",
-          image: "/src/assets/images/creation1.png",
-          link: "/src/assets/commentaire/index.html",
+          image: "/assets/images/creation1.png",
+          link: "/assets/commentaire/index.html",
         },
         {
           id: 4,
@@ -58,7 +58,7 @@ export default {
           date: "07/02/2024",
           technologies: "HTML, CSS, Angular",
           github: "https://github.com/DKanthio/Trouve-ton-artisan",
-          image: "/src/assets/images/creation1.png",
+          image: "/assets/images/creation1.png",
           link: "https://trouve-ton-artisan-three.vercel.app/",
         },
         {
@@ -67,8 +67,8 @@ export default {
           date: "25/01/2024",
           technologies: "HTML, CSS, Angular",
           github: "https://github.com/DKanthio/Au-petit-village",
-          image: "/src/assets/images/creation1.png",
-          link: "/src/assets/aupetitvillage/Au_petit_village.pdf",
+          image: "/assets/images/creation1.png",
+          link: "/assets/aupetitvillage/Au_petit_village.pdf",
         },
         {
           id: 6,
@@ -76,8 +76,8 @@ export default {
           date: "11-06-2024",
           technologies: "HTML, CSS,Symfony",
           github: "https://github.com/DKanthio/knowledge",
-          image: "/src/assets/images/creation1.png",
-          link: "/src/assets/learning.pdf",
+          image: "/assets/images/creation1.png",
+          link: "/assets/learning.pdf",
         },
         {
           id: 7,
@@ -85,8 +85,8 @@ export default {
           date: "07-03-2024",
           technologies: "HTML,Python",
           github: "https://github.com/DKanthio/gestion_mediatheque",
-          image: "/src/assets/images/creation1.png",
-          link: "/src/assets/mediatheque.pdf",
+          image: "/assets/images/creation1.png",
+          link: "/assets/mediatheque.pdf",
         },
       ],
       selectedProjet: null,
